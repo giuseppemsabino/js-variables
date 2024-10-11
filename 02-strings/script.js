@@ -4,12 +4,18 @@
 
 const Name = 'Giuseppe A. Mendoza S.';
 
-console.log(Name)
+console.log(Name);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+
+let number = 5;
+let text = 'lorem';
+let bool = 5 < 8;
+
+console.log(number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
